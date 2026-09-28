@@ -1,0 +1,2 @@
+transformers>=5.2   # tested with 5.2.0
+jinja2>=3.1         # chat-template rendering; tested with 3.1.6
